@@ -104,64 +104,9 @@ h1 {
     justify-content: space-between;
 }
 
-.img1 {
-    width: 1200px;
-    height: 690px;
-    background-image: url(./img/img1.jpg);
-    border-radius: 20px;
-    position: sticky;
-    top: 10px;
-    margin-top: 0;
-    background-position: center;
-    background-size: cover;
-    cursor: pointer;
-}
-
-.img2 {
-    width: 1200px;
-    height: 690px;
-    background-image: url(./img/img2.jpg);
-    border-radius: 20px;
-    position: sticky;
-    top: 10px;
-    margin-top: 0;
-    background-position: center;
-    background-size: cover;
-    cursor: pointer;
-}
-
-.img3 {
-    width: 1200px;
-    height: 690px;
-    background-image: url(./img/img3.jpg);
-    border-radius: 20px;
-    position: sticky;
-    top: 10px;
-    margin-top: 0;
-    background-position: center;
-    background-size: cover;
-    cursor: pointer;
-}
-
-.img4 {
-    width: 1200px;
-    height: 690px;
-    background-image: url(./img/img4.jpg);
-    border-radius: 20px;
-    position: sticky;
-    top: 10px;
-    margin-top: 0;
-    background-position: center;
-    background-size: cover;
-    cursor: pointer;
-}
-
-
-
 .left__main {
     width: 1200px;
     height: 690px;
-    background-image: url(./img/img.jpg);
     border-radius: 20px;
     position: sticky;
     top: 10px;

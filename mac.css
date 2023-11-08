@@ -1,0 +1,132 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    cursor: pointer;
+}
+
+.mac_text__info h1 {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+.mac_text__info p {
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.mac_img__info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 76px;
+    margin-top: 63px;
+}
+
+.mac_img__info h1 {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.mac_img__info h2 {
+    color: #0071E3;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 48px;
+}
+
+.mac_img__info p {
+    color: #000;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.mac_toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 11px;
+    margin-top: 60px;
+}
+.box_first {
+    width: 155px;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #0071E3;
+    border: none;
+/* text style */
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.box_second {
+    width: 155px;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #CFE7FF;
+    border: none;
+/* text style */
+    color: #797979;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.mac_buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 7px;
+    margin-top: 40px;
+}
+
+.mac_buttons button {
+    width: 321px;
+    height: 57px;
+    background: #FFF;
+    border-radius: 10px;
+    border: 2px solid #CFE7FF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.mac_buttons button p {
+    color: #000;
+    text-align: right;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
